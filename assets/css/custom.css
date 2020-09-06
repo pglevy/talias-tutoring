@@ -1,0 +1,22 @@
+
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 1.25rem;
+}
+
+
+h1 {
+  color: #0D47A1 !important;
+  font-weight: 600;
+}
+
+.bg-primary {
+  background-color: #0D47A1 !important;
+}
+.bg-secondary {
+  background-color: #FFC947 !important;
+}
+
+dd {
+  margin-bottom: 2em !important;
+}
