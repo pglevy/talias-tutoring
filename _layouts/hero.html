@@ -1,0 +1,14 @@
+{% include header.html %}
+
+<div class="container">
+  <div class="row pt-5">
+    <div class="col-md">
+      {{content}}
+      <a class="btn btn-primary btn-lg" href="#" role="button">{{page.call-to-action}}</a>
+    </div>
+    <div class="col-md">
+      <img src="{{page.image}}" class="img-fluid" alt="Responsive image">
+  </div>
+</div>
+
+{% include footer.html %}
