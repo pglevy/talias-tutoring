@@ -17,6 +17,28 @@ h1 {
   background-color: #FFC947 !important;
 }
 
+dt {
+  font-size: 1.75rem;
+  font-weight: 600;
+}
 dd {
-  margin-bottom: 2em !important;
+  margin-bottom: 2em;
+}
+
+blockquote {
+  font-style: italic;
+  color: #002171 !important;
+  margin-top: 2em;
+}
+
+blockquote p::before {
+  display: inline-block;
+  content: '“';
+  font-size: 1.5rem;
+  margin-right: 1rem;
+}
+
+blockquote p {
+  display: inline-block;
+  margin-left: 2em;
 }
