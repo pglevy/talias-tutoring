@@ -1,0 +1,21 @@
+
+<section class="bg-primary py-5 text-white text-center">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        {{content}}
+      </div>
+      <div class="container">
+        <div class="row mt-5">
+          {% for benefit in site.data.benefits %}
+          <div class="col-sm">
+            <img src="{{benefit.image}}" alt="benefit icon">
+            <h2>{{benefit.title}}</h2>
+            <p>{{benefit.description}}</p>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -6,7 +6,7 @@ body {
 
 
 h1 {
-  color: #0D47A1 !important;
+  color: #0D47A1;
   font-weight: 600;
 }
 
@@ -20,6 +20,7 @@ h1 {
 dt {
   font-size: 1.75rem;
   font-weight: 600;
+  margin-bottom: .5rem;
 }
 dd {
   margin-bottom: 2em;
@@ -31,14 +32,11 @@ blockquote {
   margin-top: 2em;
 }
 
-blockquote p::before {
-  display: inline-block;
-  content: '“';
-  font-size: 1.5rem;
-  margin-right: 1rem;
+.white {
+  color: white;
 }
 
-blockquote p {
-  display: inline-block;
-  margin-left: 2em;
+.py-5 {
+  padding-top: 6em !important;
+  padding-bottom: 6em !important;
 }
