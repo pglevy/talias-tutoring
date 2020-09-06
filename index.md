@@ -1,8 +1,4 @@
 ---
-title: Home
-layout: default
+title: Talia’s Tutoring
+layout: index
 ---
-
-# Hello World
-
-This site is working.

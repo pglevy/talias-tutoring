@@ -1,0 +1,4 @@
+collections:
+  sections:
+    sort_by: order
+    output: true
