@@ -2,3 +2,5 @@ collections:
   sections:
     sort_by: order
     output: true
+
+baseurl: https://pglevy.github.io/talias-tutoring/
