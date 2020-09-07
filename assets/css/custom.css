@@ -43,8 +43,6 @@ blockquote p {
   margin-left: 2rem;
 }
 
-
-
 .white {
   color: white;
 }
@@ -52,4 +50,14 @@ blockquote p {
 .py-5 {
   padding-top: 6em !important;
   padding-bottom: 6em !important;
+}
+
+.btn-primary {
+  background-color: #0D47A1;
+  border-color: #0D47A1;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #002171 !important;
+  border-color: #002171 !important;
 }

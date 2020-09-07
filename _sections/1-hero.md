@@ -6,9 +6,9 @@ image: "https://taliastutoring.weebly.com/uploads/1/3/0/9/130976507/undraw-softw
 ---
 
 # Talia’s Tutoring
-{: .display-4}
+{: .display-4 .text-uppercase}
 
 Affordable & Convenient Peer Math Tutoring, Now Online
-{: .lead}
+{: .h3 .font-weight-bold }
 
 Hi, I'm Talia! I’m an eighth grader in the Math & Science Specialty Program at Graham Park Middle School. I want to help students increase their abilities and confidence in math.
