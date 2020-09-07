@@ -4,6 +4,7 @@ layout: faq
 ---
 
 # How does this work?
+{: .white}
 
 How do I schedule a session?
 : Contact me using the form below and tell me about what topic you want your child to focus on. I will get back to you to discuss scheduling. In general, I'm available on weekdays in the afternoon.

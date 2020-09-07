@@ -17,6 +17,10 @@ h1 {
   background-color: #FFC947 !important;
 }
 
+dl {
+  margin-top: 2em;
+}
+
 dt {
   font-size: 1.75rem;
   font-weight: 600;
@@ -33,6 +37,7 @@ blockquote p::before {
   font-size: 6rem;
   margin-bottom: -6rem;
   margin-left: -2rem;
+  color: #FFC947;
 }
 
 blockquote p {
