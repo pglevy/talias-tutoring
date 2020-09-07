@@ -26,11 +26,24 @@ dd {
   margin-bottom: 2em;
 }
 
-blockquote {
+blockquote p::before {
+  content: '“';
+  display: block;
+  font-style: normal;
+  font-size: 6rem;
+  margin-bottom: -6rem;
+  margin-left: -2rem;
+}
+
+blockquote p {
   font-style: italic;
   color: #002171 !important;
   margin-top: 2em;
+  line-height: 1.4;
+  margin-left: 2rem;
 }
+
+
 
 .white {
   color: white;
