@@ -9,7 +9,7 @@
         <div class="row mt-5">
           {% for benefit in site.data.benefits %}
           <div class="col-sm mb-4 mb-sm-0">
-            <img src="{{benefit.image}}" alt="benefit icon">
+            <img src="{{site.baseurl}}/{{benefit.image}}" alt="benefit icon" width="66" class="mb-2">
             <h2>{{benefit.title}}</h2>
             <p>{{benefit.description}}</p>
           </div>
