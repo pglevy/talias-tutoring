@@ -7,16 +7,16 @@ layout: faq
 {: .white}
 
 How do I schedule a session?
-: Contact me using the form below and tell me about what topic you want your child to focus on. I will get back to you to discuss scheduling. In general, I’m available on weekdays in the afternoon and early evening.
+: Contact me using the form below and tell me about what topic you want your child to focus on. I will get back to you soon and send you my booking link where you can schedule classes. My current available times are from 3:15-6:45 on Mon-Wed, and from 3:15-4:15 on Fri.
 
 How will we meet?
-: I usually meet students at Montclair Public Library, but we can figure something out based on your needs.
+: I meet students at Montclair Public Library.
 
 What technology and supplies do I need?
-: A computer (to log into Canvas for classwork as needed), pencil, and paper.
+: A computer (to log into Canvas for classwork as needed), worksheets from teacher, pencil, and paper.
 
 What grades do you tutor?
-: 4th through 9th grades
+: 3rd through 10th grades
 
 How much is it and how do I pay?
 : An hour-long session is $40. Payment is accepted through Zelle or PayPal.
