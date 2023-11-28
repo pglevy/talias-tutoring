@@ -7,13 +7,13 @@ layout: faq
 {: .white}
 
 How do I schedule a session?
-: Contact me using the form below and tell me about what topic you want your child to focus on. I will get back to you soon and send you my booking link where you can schedule classes. My current available times are from 3:15-6:45pm on Mon-Wed, and from 3:15-4:15pm on Fri.
+: Contact me using the form below, and tell me about what topic you want your child to focus on. I will get back to you soon and send you my booking link where you can schedule classes. My current available times are from 3:15-6:45pm on Mondays-Wednesdays, and from 3:15-4:15pm on Fridays.
 
 How will we meet?
 : I meet students at Montclair Public Library.
 
 What technology and supplies do I need?
-: A computer (to log into Canvas for classwork as needed), worksheets from teacher, pencil, and paper.
+: A computer (to log into Canvas for classwork as needed), worksheets from the teacher, a pencil, and some paper.
 
 What grades do you tutor?
 : 3rd through 10th grades
