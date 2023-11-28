@@ -1,7 +1,7 @@
 ---
 title: Talia’s Tutoring
 layout: hero
-tagline: Affordable & Convenient Peer Math Tutoring
+tagline: Affordable Peer Math Tutoring
 call-to-action: Contact Talia
 image: "assets/img/undraw-software-engineer-lvl5-hair-color_orig.png"
 ---
