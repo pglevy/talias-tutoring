@@ -7,7 +7,9 @@ layout: faq
 {: .white}
 
 How do I schedule a session?
-: Contact me using the form below, and tell me about what topic you want your child to focus on. I will get back to you soon and send you my booking link where you can schedule classes. My current available times are from 3:15-6:45pm on Mondays-Wednesdays, and from 3:15-4:15pm on Fridays.
+: Contact me using the form below, and tell me about what topic you want your child to focus on. I will get back to you soon and send you my booking link where you can schedule classes. My current available time windows are:
+- 3:15–6:45pm on Mon, Tues, & Wed
+- 3:15–4:15pm on Fri
 
 How will we meet?
 : I meet students at Montclair Public Library.
