@@ -1,11 +1,14 @@
 - title: Improve Scores
   description: Detailed explanations of current techniques help improve their abilities.
   image: "assets/img/scores-yellow-bg_orig.png"
+  alt-text: chart icon
 
 - title: Boost Confidence
   description: Extra attention will help students gain more confidence in math class.
   image: "assets/img/confidence-yellow-bg_orig.png"
+  alt-text: rocket icon
 
 - title: Develop Habits
   description: Tips and techniques will prepare them for applying their learning to new topics.
-  image: "assets/img/habits-yellow-bg_orig.png" 
+  image: "assets/img/habits-yellow-bg_orig.png"
+  alt-text: repeat icon

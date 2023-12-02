@@ -3,8 +3,8 @@ title: FAQ
 layout: faq
 ---
 
-# How does this work?
-{: .white}
+## How does this work?
+{: .white .h1}
 
 How do I schedule a session?
 : Contact me using the form below, and tell me about what topic you want your child to focus on. I will get back to you soon and send you my booking link where you can schedule classes. My current available time windows are:

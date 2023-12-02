@@ -3,7 +3,8 @@ title: Testimonials
 layout: testimonial
 ---
 
-# What customers are saying
+## What customers are saying
+{: .h1}
 
 > It was awesome for [my daughter] to have someone her age who had already been through the course work to help guide her. You have a natural teaching and nurturing personality!
 
