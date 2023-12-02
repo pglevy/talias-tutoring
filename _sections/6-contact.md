@@ -3,7 +3,8 @@ title: Contact
 layout: contact
 ---
 
-# Contact Me
+## Contact Me
+{: .h1}
 
 Fill in your contact information below, and let me know about your student’s situation. I’ll be in touch soon!
 
