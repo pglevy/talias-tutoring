@@ -1,6 +1,10 @@
 <!doctype html>
 <html lang="en">
   <head>
+    {% if page.title == "Startup Kit" %}
+      <!-- If page is /startup-kit, forward to the Google Site -->
+      <meta http-equiv="Refresh" content="0; URL=https://sites.google.com/view/talias-tutoring-startup-kit/" />
+    {% endif %}
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-3279555-8"></script>
     <script>
